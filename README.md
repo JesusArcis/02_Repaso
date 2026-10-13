@@ -6,3 +6,5 @@ Proyecto de Rick & Morty
 
 > _ Rick: Científico
 > _ Morty: Ayudante
+> \_ Summer: Piloto
+> \_ Jerry: Generar averías
