@@ -1,2 +1,3 @@
 .env
-planes/portal.md
+dist/*
+!dist/version-1.*
